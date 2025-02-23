@@ -1,0 +1,8 @@
+numpy
+PyAudio
+mido
+Pillow
+ultralytics
+opencv-python
+mediapipe
+simpleaudio
